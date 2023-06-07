@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tu encuesta</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Tu encuesta</h1>
+    <p>Por favor, completa la encuesta</p>
+  </header>
+
+  <form id="survey-form">
+    <label for="name">Nombre:</label>
+<input type="text" id="name" required>
+
+<label for="email">Correo electrónico:</label>
+<input type="email" id="email" required>
+
+<label for="age"style="margin-top: 10px">Edad:</label>
+<input type="number" id="age" required>
+
+<label for="gender" style="margin-top: 10px">Género:</label>
+<select id="gender" required>
+  <option value="">Selecciona una opción</option>
+  <option value="male">Masculino</option>
+  <option value="female">Femenino</option>
+  <option value="other">Otro</option>
+</select>
+
+<!-- Agrega más preguntas aquí -->
+<label for="question1">Pregunta 1: ¿Cuál es tu color favorito?</label>
+<input type="text" id="question1" required>
+
+<label for="question2">Pregunta 2: ¿Cuál es tu animal favorito?</label>
+<input type="text" id="question2" required>
+
+<label for="question3">Pregunta 3: ¿Prefieres la playa o la montaña?</label>
+<select id="question3" required>
+  <option value="">Selecciona una opción</option>
+  <option value="beach">Playa</option>
+  <option value="mountain">Montaña</option>
+</select>
+
+<label for="question4">Pregunta 4: ¿Cuál es tu deporte favorito?</label>
+<input type="text" id="question4" required>
+
+<label for="question5">Pregunta 5: ¿Cuál es tu película favorita?</label>
+<input type="text" id="question5" required>
+
+<label>Pregunta 6: ¿Qué lenguajes de programación conoces? (Selecciona todos los que correspondan)</label>
+<div>
+  <input type="checkbox" id="language1" name="languages" value="javascript">
+  <label for="language1">JavaScript</label>
+</div>
+<div>
+  <input type="checkbox" id="language2" name="languages" value="python">
+  <label for="language2">Python</label>
+</div>
+<div>
+  <input type="checkbox" id="language3" name="languages" value="java">
+  <label for="language3">Java</label>
+</div>
+<!-- Agrega más opciones de lenguajes de programación aquí -->
+
+<label>Pregunta 7: ¿Cuál de los siguientes pasatiempos te gusta? (Selecciona todos los que correspondan)</label>
+<div>
+  <input type="checkbox" id="hobby1" name="hobbies" value="reading">
+  <label for="hobby1">Leer</label>
+</div>
+<div>
+  <input type="checkbox" id="hobby2" name="hobbies" value="painting">
+  <label for="hobby2">Pintar</label>
+</div>
+<div>
+  <input type="checkbox" id="hobby3" name="hobbies" value="sports">
+  <label for="hobby3">Practicar deportes</label>
+</div>
+<!-- Agrega más opciones de pasatiempos aquí -->
+<label>Pregunta 8: ¿te gustan los gatos?</label>
+<label for="personal-account"><input id="personal-account" type="radio" name="account-type" class="inline" /> Si</label>
+<label for="business-account"><input id="business-account" type="radio" name="account-type" class="inline" /> No</label>
+<label for="terms-and-conditions">
+  <input id="terms-and-conditions" type="checkbox" required name="terms-and-conditions" class="inline" /> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a>
+</label>
+
+
+<input type="submit" value="Enviar encuesta">
+
+  </form>
+
+  <script src="script.js"></script>
+</body>
+</html>
