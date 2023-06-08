@@ -13,6 +13,7 @@ def encontrar_extremos(lista):
         return mayor, menor
 
 
+
 numeros = [12, 5, 23, 8, 19, 3]
 mayor, menor = encontrar_extremos(numeros)
 print("El número mayor es:", mayor)

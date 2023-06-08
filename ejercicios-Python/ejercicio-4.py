@@ -10,7 +10,6 @@ def contar_palabras(texto):
             frecuencia[palabra] = 1
     return frecuencia
 
-# Ejemplo de uso
 texto = "En un lugar de la Mancha, de cuyo nombre no quiero acordarme"
 resultado = contar_palabras(texto)
 for palabra, frecuencia in resultado.items():
