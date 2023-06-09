@@ -8,3 +8,4 @@ reto 100 dias programando
 - dia 3 : Crea un formulario de encuesta
 - dia 4: repaso un poco python y hago algunos ejercicios.
 - dia 5: terminar web de Durbano
+- dia 6 : inicio curso de SQL de openbootCamp
