@@ -22,3 +22,5 @@ reto 100 dias programando
 - dia 9: configuramos git action con nuestra maquina remota, preparo mi portfolio www.ruxxdev.site y me paso el dia con mi primo entre deploys y pull request.
 
 - dia 10: hago una app Con Angular-ion frameworks - capacitor.  le hago unos diseños para el portfolio de Daniel Urbano.
+
+- dia 11: Me pongo con el proyecto wikikar
