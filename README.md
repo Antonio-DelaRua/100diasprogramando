@@ -24,3 +24,5 @@ reto 100 dias programando
 - dia 10: hago una app Con Angular-ion frameworks - capacitor.  le hago unos diseños para el portfolio de Daniel Urbano.
 
 - dia 11: Me pongo con el proyecto wikikar
+  
+- dia 12: no puedo hacer mucha cosa he cogido un virus y solo e podio repasar DOCs.
