@@ -26,3 +26,5 @@ reto 100 dias programando
 - dia 11: Me pongo con el proyecto wikikar
   
 - dia 12: no puedo hacer mucha cosa he cogido un virus y solo e podio repasar DOCs.
+
+- dia 13: sigo con el curso de ciberseguridad
