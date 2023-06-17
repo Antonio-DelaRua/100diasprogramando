@@ -28,3 +28,5 @@ reto 100 dias programando
 - dia 12: no puedo hacer mucha cosa he cogido un virus y solo e podio repasar DOCs.
 
 - dia 13: sigo con el curso de ciberseguridad
+  
+- dia 14: le mejoro la seccion de contactos al portfolio de DurbanoD.com
