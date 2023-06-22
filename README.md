@@ -30,3 +30,5 @@ reto 100 dias programando
 - dia 13: sigo con el curso de ciberseguridad
   
 - dia 14: le mejoro la seccion de contactos al portfolio de DurbanoD.com
+
+- dia 19 : estos días he estado trabajando en la web de mi primo haciendo una web-social con django y mientras a modo de descanso algun juego con pygame y más.
