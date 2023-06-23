@@ -34,3 +34,5 @@ reto 100 dias programando
 - dia 19 : estos días he estado trabajando en la web de mi primo haciendo una web-social con django y mientras a modo de descanso algun juego con pygame y más.
 
 - dia 20: freecodecamp
+
+- dia 21: freecodecamp seguimos como el curso haciendo facturas y ahora otros proyectos.
