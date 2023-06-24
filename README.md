@@ -36,3 +36,5 @@ reto 100 dias programando
 - dia 20: freecodecamp
 
 - dia 21: freecodecamp seguimos como el curso haciendo facturas y ahora otros proyectos.
+
+- dia 22: freecodecamp seguimos con el curso de web developer.
