@@ -18,7 +18,7 @@ import typer
 
 app = typer.Typer()
 
-openai.api_key = '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'
+openai.api_key = 
 
 @app.command()
 def main(
