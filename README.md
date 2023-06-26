@@ -40,3 +40,5 @@ reto 100 dias programando
 - dia 22: freecodecamp seguimos con el curso de web developer.
 
 - dia 23: pruebo lo de gpt-engineer pero la verdad que me han decepcionado los resultados.
+
+- dia 24: sigo avanzando en el curso de freecodecamp.
