@@ -1,0 +1,40 @@
+.graphic {
+    position: relative;
+    display: grid;
+    padding-top: 3rem;
+    grid-template-columns: 1fr 75%;
+}
+.graphic-man {
+    width: 100%;
+    grid-column-start: 2;
+}
+.absolute {
+    position: absolute;
+    
+}
+
+.graphic-go{
+    position: absolute;
+    width: 25%;
+    mix-blend-mode: screen;
+    top: 1%;
+    right: 530px;
+    transform: rotate(10deg);
+    animation: rotate 4s infinite linear;
+}
+
+
+.graphic-circles {
+    height: 100%;
+    aspect-ratio: 1 / 1;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+

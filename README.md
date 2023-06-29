@@ -43,4 +43,6 @@ reto 100 dias programando
 
 - dia 24: sigo avanzando en el curso de freecodecamp.
 
--dia 25: sigo avanzando en el curso de freecodecamp.
+- dia 25: sigo avanzando en el curso de freecodecamp.
+
+- dia 26: Termine el curso de web developer de freecodecamp. y ahora he empezado con uno de javascript.
