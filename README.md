@@ -50,3 +50,5 @@ reto 100 dias programando
 - dia 27: me he pasado todo el dia arreglando mi portfolio para podeer desplegarlo
 
 - dia 28: sigo con el curso de javascript de freecodecamp. y he empezado a hacer otro portfolio.
+
+- dia 29: sigo con el curso de javascript de freecodecamp. 
