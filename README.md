@@ -52,3 +52,5 @@ reto 100 dias programando
 - dia 28: sigo con el curso de javascript de freecodecamp. y he empezado a hacer otro portfolio.
 
 - dia 29: sigo con el curso de javascript de freecodecamp. 
+
+- dia 30: arreglo varios bugs de mi pagina web y le añado un filtro a las tablas.
