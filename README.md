@@ -54,3 +54,5 @@ reto 100 dias programando
 - dia 29: sigo con el curso de javascript de freecodecamp. 
 
 - dia 30: arreglo varios bugs de mi pagina web y le añado un filtro a las tablas.
+
+- dia 31 : hoy he estado incrementando el lazy load en mi aplicacion angular y viendo algunos consejos de login con django
