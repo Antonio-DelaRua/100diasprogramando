@@ -56,3 +56,8 @@ reto 100 dias programando
 - dia 30: arreglo varios bugs de mi pagina web y le añado un filtro a las tablas.
 
 - dia 31 : hoy he estado incrementando el lazy load en mi aplicacion angular y viendo algunos consejos de login con django
+
+- dia 32: hoy he estado haciendo un poco de todo, he estado haciendo un poco de python, he estado haciendo un poco de javascript y he estado haciendo un poco de angular.
+
+- dia 33: he estado implementando el lazy loading en algunas de mis aplicaciones angular.
+  
